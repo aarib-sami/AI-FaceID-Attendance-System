@@ -142,6 +142,6 @@ while True:
     else:
         modeType = 0
         counter = 0
+    
     cv2.imshow("Face Attendance", imgBackground)
     cv2.waitKey(1)
-
